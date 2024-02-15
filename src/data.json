@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "img": "../../images/f1.png",
+        "heading":"Grilled Tomatoes at Home"
+    },
+    {
+        "id": "2",
+        "img": "../../images/f2.png",
+        "heading":"Grilled Tomatoes at Home"
+    },
+    {
+        "id": "2",
+        "img": "../../images/f3.png",
+        "heading":"Grilled Tomatoes at Home"
+    },
+    {
+        "id": "2",
+        "img": "../../images/f4.png",
+        "heading":"Grilled Tomatoes at Home"
+    }
+]
